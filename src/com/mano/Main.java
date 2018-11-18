@@ -6,5 +6,6 @@ public class Main {
         System.out.println("Hai Mano! -" + args[0]);
         System.out.println("Hai Mano 2!");
         System.out.println("Hai Mano 3!");
+        System.out.println("Hai Mano 4!");
     }
 }
